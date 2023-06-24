@@ -2,6 +2,7 @@
   {
     "question": "What is your skin type?",
     "multiple_choice": true,
+    "open_question": false, 
     "possibilities": [
       "sensitive",
       "combination",
