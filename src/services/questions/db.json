@@ -1,0 +1,91 @@
+[
+  {
+    "question": "What is your skin type?",
+    "multiple_choice": true,
+    "possibilities": [
+      "sensitive",
+      "combination",
+      "combination to dry",
+      "combination to oily",
+      "dry",
+      "oily"
+    ]
+  },
+  {
+    "question": "Are you prone to acne?",
+    "multiple_choice": false,
+    "open_question": false,
+    "possibilities": ["yes", "no"]
+  },
+  {
+    "question": "Are you eczema / dermathitis / couperose prone?",
+    "multiple_choice": false,
+    "open_question": false,
+
+    "possibilities": ["yes", "no"]
+  },
+  {
+    "question": "Do you have any skin concerns?",
+    "multiple_choice": true,
+    "open_question": false,
+
+    "possibilities": [
+      "dehydration",
+      "dryness",
+      "flakiness",
+      "oilyness",
+      "redness",
+      "pimples",
+      "blackheads",
+      "whiteheads",
+      "damaged skin barrier / increased sensitivity",
+      "undereyes puffiness",
+      "general signs of ageing",
+      "sun damage",
+      "neck / decollete signs of ageing",
+      "hyperpigmentation / dark spots"
+    ]
+  },
+  {
+    "question": "How old are you?",
+    "multiple_choice": false,
+    "open_question": true,
+    "possibilities": []
+  },
+  {
+    "question": "Do you have any skin conditions we should know about?",
+    "multiple_choice": false,
+    "open_question": true,
+    "possibilities": []
+  },
+  {
+    "question": "Do you have any brand preferences?",
+    "multiple_choice": true,
+    "open_question": false,
+
+    "possibilities": [
+      "Asian beauty",
+      "Occidental beauty",
+      "French pharmacy products",
+      "POC Owned"
+    ]
+  },
+  {
+    "question": "Would you like your routine to be vegan?",
+    "multiple_choice": false,
+    "open_question": false,
+    "possibilities": ["yes", "no"]
+  },
+  {
+    "question": "Level of expertise",
+    "multiple_choice": false,
+    "open_question": false,
+    "possibilities": ["Newbie", "WIP", "Guru"]
+  }, 
+  {
+    "question": "Are you pregnant or are you planning on trying?",
+    "multiple_choice": false,
+    "open_question": false,
+    "possibilities": ["yes", "no"]
+  }
+]
